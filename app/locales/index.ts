@@ -50,7 +50,6 @@ export const ALL_LANG_OPTIONS: Record<Lang, string> = {
   cn: "简体中文",
   en: "English",
   pt: "Português",
-  tw: "繁體中文",
   jp: "日本語",
   ko: "한국어",
   id: "Indonesia",
