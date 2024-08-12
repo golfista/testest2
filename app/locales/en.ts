@@ -14,7 +14,7 @@ const en: LocaleType = {
   },
   Auth: {
     Title: "Need Access Code",
-    Tips: "Please enter access code below",
+    Tips: "Do you have a password? Enter it below, you can ask for access to https://golfista.zip",
     SubTips: "Or enter your OpenAI or Google API Key",
     Input: "access code",
     Confirm: "Confirm",
